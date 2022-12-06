@@ -1,2 +1,2 @@
 # Agencia-Tupiniquim
- Teste Técnico para uma empresa
+Site feito apenas em HTML e CSS puro
